@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="0" name="Failed suite [runnerFiles.Regression_Core_FeatureRunner]">
+  <test name="Command line test 0e8d99d0-08db-4e61-8203-38f804ca972f(failed)">
+    <classes>
+      <class name="runnerFiles.Regression_Core_FeatureRunner">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="feature" invocation-numbers="1"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- runnerFiles.Regression_Core_FeatureRunner -->
+    </classes>
+  </test> <!-- Command line test 0e8d99d0-08db-4e61-8203-38f804ca972f(failed) -->
+</suite> <!-- Failed suite [runnerFiles.Regression_Core_FeatureRunner] -->

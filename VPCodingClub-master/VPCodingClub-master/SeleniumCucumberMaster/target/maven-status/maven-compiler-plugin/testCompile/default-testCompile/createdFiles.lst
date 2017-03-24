@@ -1,0 +1,7 @@
+stepDefs\AccessToSystemSteps.class
+runnerFiles\Login_FeatureRunner.class
+stepDefs\SingUpSteps.class
+runnerFiles\Games_FeatureRunner.class
+stepDefs\AddGames.class
+stepDefs\DeleteGames.class
+stepDefs\UpdateGames.class

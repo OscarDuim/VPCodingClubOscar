@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="0" name="Failed suite [runnerFiles.Games_FeatureRunner]">
+  <test name="Command line test 016a9e20-60b1-415b-b0e0-2840d75989e6(failed)">
+    <classes>
+      <class name="runnerFiles.Games_FeatureRunner">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="feature" invocation-numbers="2"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- runnerFiles.Games_FeatureRunner -->
+    </classes>
+  </test> <!-- Command line test 016a9e20-60b1-415b-b0e0-2840d75989e6(failed) -->
+</suite> <!-- Failed suite [runnerFiles.Games_FeatureRunner] -->

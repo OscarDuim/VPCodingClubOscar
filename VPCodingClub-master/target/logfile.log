@@ -1,0 +1,168 @@
+2017-03-13 19:11:22,350 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:11:22,351 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:11:22,354 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:11:22,354 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:11:22,404 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:11:22,404 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:11:22,404 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:11:22,404 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:15:58,353 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:15:58,353 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:15:58,356 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:15:58,356 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:15:58,390 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:15:58,390 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:15:58,390 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:15:58,390 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:16:39,740 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:16:39,740 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:16:39,743 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:16:39,743 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:16:39,773 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:16:39,773 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:16:39,774 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:16:39,774 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:17:00,976 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:17:00,976 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:17:00,979 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:17:00,980 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:17:01,030 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:17:01,030 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:17:01,030 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:17:01,030 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:18:29,220 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:18:29,250 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:18:29,254 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:18:29,254 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:18:29,323 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:18:29,323 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:18:29,323 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:18:29,323 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:20:29,428 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:20:29,429 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:20:29,431 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:20:29,431 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:20:29,455 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:20:29,456 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:20:29,457 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:20:29,457 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:20:45,142 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:20:45,158 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:20:45,158 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:20:45,158 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:20:45,204 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:20:45,204 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:20:45,204 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:20:45,204 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:22:09,982 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:22:09,983 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:22:09,985 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:22:09,985 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:22:10,045 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:22:10,045 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:22:10,045 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:22:10,045 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:23:18,991 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:23:18,991 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:23:19,006 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:23:19,006 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:23:19,022 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:23:19,022 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:23:19,022 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:23:19,022 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:25:02,277 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:25:02,277 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:25:02,277 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:25:02,277 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:25:02,308 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-13 19:25:02,308 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:25:02,308 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-13 19:25:02,308 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:17:25,089 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:17:25,111 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:17:25,114 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:17:25,114 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:17:25,173 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:17:25,174 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:17:25,174 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:17:25,174 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:19:03,142 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:19:03,143 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:19:03,147 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:19:03,147 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:19:03,202 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:19:03,203 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:19:03,203 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:19:03,203 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:20:04,685 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:20:04,692 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:20:04,698 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:20:04,698 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:20:04,742 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:20:04,742 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:20:04,742 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:20:04,742 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:23:43,495 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:23:43,495 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:23:43,498 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:23:43,498 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:23:43,562 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:23:43,562 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:23:43,562 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:23:43,562 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:24:52,843 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:24:52,844 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:24:52,848 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:24:52,849 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:24:52,922 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:24:52,922 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:24:52,922 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:24:52,922 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:28:45,736 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:28:45,736 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:28:45,738 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:28:45,738 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:28:45,784 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:28:45,785 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:28:45,785 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:28:45,785 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:29:39,781 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:29:39,782 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:29:39,784 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:29:39,784 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:29:39,806 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:29:39,806 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:29:39,807 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:29:39,807 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:30:03,826 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:30:03,827 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:30:03,830 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:30:03,831 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:30:03,874 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:30:03,874 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:30:03,874 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:30:03,874 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:31:43,024 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:31:43,025 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:31:43,027 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:31:43,028 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:31:43,077 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:31:43,077 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:31:43,077 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:31:43,077 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:45:25,061 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:45:25,092 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:45:25,108 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:45:25,108 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:45:25,155 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-14 17:45:25,155 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:45:25,155 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Ingreso con credenciales validas    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-14 17:45:25,155 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-21 16:35:23,828 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-21 16:35:23,879 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Agregar juegos a la plataforma    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-21 16:35:23,882 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Start of execution of scenario with name: Agregar juegos a la plataforma    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-21 16:35:23,882 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-21 16:35:23,967 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
+2017-03-21 16:35:23,967 INFO  [BrowserSetUpAndTearDown] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Agregar juegos a la plataforma    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-21 16:35:23,967 INFO  [Test] $$$$$$$$$$$$$$$$$$$$$ Completion of execution of scenario with name: Agregar juegos a la plataforma    $$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-21 16:35:23,967 INFO  [BrowserSetUpAndTearDown] **************************************************************************************** 
